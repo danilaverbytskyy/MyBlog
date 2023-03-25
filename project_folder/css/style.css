@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #0b2e13;
+    color: white;
+    text-align: center;
+}
+.card{
+    color: black;
+}
+.footer{
+    padding-top: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
